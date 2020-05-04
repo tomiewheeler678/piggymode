@@ -4,11 +4,17 @@ This is an app that allows for quotes to be entered by visitors. The quotes get 
 
 
 Tools & Resources
-Ruby on Rails
-PostgreSQL
-Bootstrap
-Google Fonts
-Heroku
+
+*Ruby on Rails
+
+*PostgreSQL
+
+*Bootstrap
+
+*Google Fonts
+
+*Heroku
+
 Enjoy your day!
 
 
